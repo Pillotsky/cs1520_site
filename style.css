@@ -1,9 +1,10 @@
 body {
-  background-color:	#ffffff
+  background-color:	#000000
 }
 
 h1,h2,h3 {
   text-align: 		center;
+  colo
 }
 
 td {
@@ -13,10 +14,11 @@ td {
 div#content {
   width: 			45em;
   margin:			auto;
+  color: #ffffff;
 }
 
 div.divider {
-  background-color: #bbbbbb;
+  background-color: #333399;
   width:            75%;
   margin:           auto;
   padding:          0.1em;
