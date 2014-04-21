@@ -4,7 +4,7 @@ body {
 
 h1,h2,h3 {
   text-align: 		center;
-  colo
+  color: #ffffff;
 }
 
 td {
@@ -25,12 +25,12 @@ div.divider {
 }
 
 div#basics {
-  background-color: #bbbbbb;
+  background-color: #333399;
   padding:          0.5em;
 }
 
 div.itemtitle {
-  background-color: #bbbbbb;
+  background-color: #333399;
   padding:          0.5em;
 }
 
