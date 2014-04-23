@@ -5,6 +5,7 @@ body {
 h1,h2,h3 {
   text-align: 		center;
   color: #ffffff;
+  font-style: "Comic Sans";
 }
 
 td {
@@ -15,6 +16,7 @@ div#content {
   width: 			45em;
   margin:			auto;
   color: #ffffff;
+  font-style: "Comic Sans";
 }
 
 div.divider {
@@ -22,6 +24,8 @@ div.divider {
   width:            75%;
   margin:           auto;
   padding:          0.1em;
+  font-style: "Comic Sans";
+  color: #ffffff;
 }
 
 div#basics {
